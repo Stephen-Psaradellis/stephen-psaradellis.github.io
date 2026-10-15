@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stephen-psaradellis.github.io/demos/sitemap.xml
